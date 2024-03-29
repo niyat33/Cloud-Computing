@@ -1,4 +1,4 @@
-# Deploying Machine Learning Models using Docker (How to Deploy a Machine Learning Application with Flask and Docker)
+# Deploying Machine Learning Models using Docker
 
 This guide outlines the steps to containerize and deploy a simple machine learning (ML) application using Flask and Docker. The goal is to demonstrate the deployment process rather than focus on model accuracy or complexity.
 
