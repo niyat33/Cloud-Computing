@@ -14,15 +14,8 @@ This command builds the Docker images and starts the containers specified in the
 3. Specify your API keys. In the docker-genai directory, create a text file called .env and specify your API keys inside.
    The following is the contents of the .env.example file that you can refer to as an example.
 
-    ----------------------------------------------------------------------------
-    **#OpenAI
-    **#----------------------------------------------------------------------------
     OPENAI_TOKEN=your-api-key # Replace your-api-key with your personal API key
-    **#----------------------------------------------------------------------------
-    **# Pinecone
-    ----------------------------------------------------------------------------
     PINECONE_TOKEN=your-api-key # Replace your-api-key with your personal API key
-
 
 5. Build and run the application. In a terminal, change directory to your docker-genai directory and run the following command.
 $ docker compose up --build
