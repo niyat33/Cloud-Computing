@@ -1,4 +1,6 @@
 # GenAI - Containerized video transcription and chat app
+### This is a project on video transcription and analysis using a set of technologies related to the GenAI Stack.
+
 Prerequisites
 - An OpenAI API Key.
 - Pinecone API Key.
